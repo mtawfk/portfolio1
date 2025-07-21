@@ -17,7 +17,7 @@ const greeting = {
   username: "Mahmoud Tawfik",
   title: "Hi all, I'm Mahmoud",
   subTitle: "Data Scientist | AI Enthusiast | Passionate about building smart systems.",
-  resumeLink: "C:\Users\mtawf\portfolio1\src\containers\greeting\resume.pdf",
+  resumeLink: "https://drive.google.com/file/d/1rsZ2f7ec58_Ap3DNYbniKqCZjXStn1fq/view?usp=drive_link",
   display: true
 };
 
@@ -86,7 +86,7 @@ const podcastSection = {
 const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
-  link: "C:\Users\mtawf\portfolio1\src\containers\greeting\resume.pdf",
+  link: "https://drive.google.com/file/d/1rsZ2f7ec58_Ap3DNYbniKqCZjXStn1fq/view?usp=drive_link",
   display: true
 };
 
